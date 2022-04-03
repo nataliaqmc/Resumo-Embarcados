@@ -1,1 +1,1 @@
-# Resumo-Embarcados
+# Resumo Computação Embarcada:
